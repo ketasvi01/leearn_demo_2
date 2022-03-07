@@ -2,4 +2,4 @@
 ## For practice
 
 local development
-1. open
+1. opengit 
